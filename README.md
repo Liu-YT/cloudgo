@@ -32,6 +32,7 @@
     * `-v`，启用详细模式
     * [curl详情介绍](https://ec.haxx.se/usingcurl.html)
 * 结果
+
   ![curl_test](./images/curl_test.png)
 
 
@@ -54,7 +55,10 @@
         * `-T` - POST数据所使用的Content-type头信息
         * `-k` - 启用HTTP KeepAlive功能，即在一个HTTP会话中执行多个请求，默认时，不启用KeepAlive功能
 * 测试结果
+
+
   ![ab_test](./images/ab_test.png)
+
     * 参数解释
 
         ```shell
