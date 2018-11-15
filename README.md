@@ -12,8 +12,16 @@
   ```
 
 * 选择原因
-
-  [官方文档](https://beego.me/docs/quickstart/)介绍的比较详细，总体比较好理解，使用起来简单快捷。不过`Martini`框架似乎也是比较简单易用的。
+    * [框架特征](https://github.com/astaxie/beego)
+        * RESTful support
+        * MVC architecture
+        * Modularity
+        * Auto API documents
+        * Annotation router
+        * Namespace
+        * Powerful development tools
+        * Full stack for Web & API
+  * [官方文档](https://beego.me/docs/quickstart/)介绍的比较详细，总体比较好理解，使用起来简单快捷。不过`Martini`框架似乎也是比较简单易用的。
 
 ---
 
